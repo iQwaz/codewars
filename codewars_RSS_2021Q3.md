@@ -2,7 +2,7 @@
 
 ## Numbers, strings
 
-* 7 kyu https://www.codewars.com/kata/absent-vowel
+* DONE 7 kyu https://www.codewars.com/kata/absent-vowel
 * DONE 7 kyu https://www.codewars.com/kata/get-the-middle-character
 * 7 kyu https://www.codewars.com/kata/highest-and-lowest
 * 7 kyu https://www.codewars.com/kata/jaden-casing-strings
