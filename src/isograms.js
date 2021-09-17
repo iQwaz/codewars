@@ -6,10 +6,10 @@ const isIsogram = (str) => {
   for (let i = 0; i < strLowerCase.length; i += 1) {
     if (strLowerCase.indexOf(strLowerCase[i]) !== i) {
       result = false;
-    };
+    }
   }
   return result;
-}
+};
 
 console.log(isIsogram('Dermatoglyphics')); // true
 console.log(isIsogram('')); // true
