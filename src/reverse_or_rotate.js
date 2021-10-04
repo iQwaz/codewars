@@ -11,7 +11,7 @@ const revrot = (str, sz) => {
       let sumOfCubes = 0;
       // eslint-disable-next-line no-restricted-syntax
       for (const num of chunk) {
-        sumOfCubes += Math.pow(num, 3);
+        sumOfCubes += num ** 3;
       }
       let newChunk = '';
       if (sumOfCubes % 2 === 0) {
